@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deagan360
 -     My name is William Diaz
--     I currently work for FedEx as a delivery courier
--     I am in the process of transitioning to be a Technical Service Representative II at FedEx in NYC
+-     I currently work for FedEx as a  Technical Service Representative II in NYC
 -     
 - 👀 I’m interested in creating a new career in the technology field
 - 
